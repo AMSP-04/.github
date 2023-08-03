@@ -13,7 +13,7 @@ http://amsp-04.github.io
 |NETN-CBRN| Representation of CBRN release, detection, effects, and protective measures in a federated distributed simulation.|New in NETN-FOM v2 |
 |NETN-LOG| Negotiation, delivery, and acceptance of logistics services between federates modelling different entities involved in the service transaction. | New in NETN-FOM v3 |
 |NETN-TMR| Negotiated and coordinated transfer of attribute modelling responsibility between federates. |New in NATO FOM v2 |
-|NETN-SE| Representation of persistent abstract geographical objects that can be (re-)used and referenced for specifying locations, paths, etc. | |
+|NETN-SE| Representation of persistent abstract geographical objects that can be (re-)used and referenced for specifying locations, paths, etc. |New in NATO FOM v3 |
 |NETN-ETR| Interface for sending simulation tasks to entities represented in a federated distributed simulation.| Replace NETN-LBML in NATO FOM v3|
 |NETN-ORG| Representation of the state of units, including command structure and the relationship between organizations. | New in NATO FOM v3|
 |NETN-AIS| Represent vessel traffic in a simulation using AIS messages.| New in NATO FOM v3|
