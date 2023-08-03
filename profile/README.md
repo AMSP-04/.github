@@ -17,7 +17,7 @@ http://amsp-04.github.io
 |NETN-ETR| Interface for sending simulation tasks to entities represented in a federated distributed simulation.| |
 |NETN-ORG| Representation of the state of units, including command structure and the relationship between organizations. | |
 |NETN-AIS| Represent vessel traffic in a simulation using AIS messages.| |
-|NETN-ENTITY| Representation of simulated physical and aggregate entities.|New. Replaces NETN-Physical in NATO FOM v4|
+|NETN-ENTITY| Representation of simulated physical and aggregate entities.|New in NATO FOM v4 |
 |NETN-DIM| Representing hazards, e.g. flooding and wildfire, in federated distributed simulation environments.|New in NATO FOM v4|
 |NETN-Aggregate| Representing hazards, e.g. flooding and wildfire, in federated distributed simulation environments.|Deprecated from NETN FOM v3|
 |NETN-LLBML| Representing hazards, e.g. flooding and wildfire, in federated distributed simulation environments.|Deprecated from NETN FOM v3|
