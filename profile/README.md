@@ -15,7 +15,7 @@ http://amsp-04.github.io
 |NETN-TMR| Negotiated and coordinated transfer of attribute modelling responsibility between federates. |Introduced in NETN-FOM v2 |
 |NETN-SE| Representation of persistent abstract geographical objects that can be (re-)used and referenced for specifying locations, paths, etc. |Introduced in NETN-FOM v3 |
 |NETN-ETR| Interface for sending simulation tasks to entities represented in a federated distributed simulation.| Introduced in NETN-FOM v3 to replace NETN-LBML|
-|NETN-ORG| Representation of the state of units, including command structure and the relationship between organizations. | Replace NETN-LBML  in NETN-FOM v3|
+|NETN-ORG| Representation of the state of units, including command structure and the relationship between organizations. | Introduced in NETN-FOM v3|
 |NETN-AIS| Represent vessel traffic in a simulation using AIS messages.| Introduced in NETN-FOM v3|
 |NETN-ENTITY| Representation of simulated physical and aggregate entities.| Introduced in NATO-FOM v4 |
 |NETN-DIM| Representing hazards, e.g. flooding and wildfire, in federated distributed simulation environments.|Introduced in NATO-FOM v4|
