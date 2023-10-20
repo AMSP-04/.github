@@ -1,4 +1,4 @@
-## NATO Federation Object Model
+## NATO Education and Training Network Federation Object Model (NETN FOM)
 
 http://amsp-04.github.io
 
