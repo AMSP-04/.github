@@ -22,3 +22,11 @@ http://amsp-04.github.io
 |NETN-SMC| Base interaction classes for service management and control, including federation, federate and entity control.|Introduced in NETN-FOM v4 |
 |NETN-Aggregate| Representing hazards, e.g. flooding and wildfire, in federated distributed simulation environments.|Introduced in NETN-FOM v2. Deprecated in NETN-FOM v3|
 |NETN-LBML| Representing hazards, e.g. flooding and wildfire, in federated distributed simulation environments.|Introduced in NETN-FOM v2. Deprecated in NETN-FOM v3|
+
+The Master Branch of each FOM module repository contains the version included in the latest release of NETN-FOM (currently NETN-FOM v3).
+In the Develop Branch of each FOM module repository, you can find the latest development version of the module for the next release of NETN-FOM (NETN-FOM v4).
+In the Edit Branches, you will find work-in-progress.
+
+In the NETN-FOM repository, you will find the complete NETN-FOM. 
+In the Master branch, you will find the complete set of modules for the latest released version of NETN-FOM (NETN-FOM v3.0).
+You will find the latest development version of the complete NETN-FOM (Draft NETN-FOM v4) in the Develop branch.
