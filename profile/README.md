@@ -6,7 +6,7 @@ http://amsp-04.github.io
 |---|---|---|
 |NETN-FOM| All modules combined for specific NETN-FOM version.| |
 |NETN-BASE| Common definitions of datatypes and extends the RPR-BASE FOM Module.|Introduced in NETN-FOM v2 |
-|NETN-Physical| Representation of Physical Entities in a federated distributed simulation.|Introduced in NETN-FOM v2 |
+|NETN-Physical| Representation of Physical Entities in a federated distributed simulation.|Introduced in NETN-FOM v2. Deprecated in NETN-FOM v4|
 |NETN-MRM| Aggregate level entity simulation, aggregation and disaggregation of units. Division and merging of unit resources.|Introduced in NETN-FOM v2 |
 |NETN-COM| Representation of Communication Networks and the status of communication links.|Introduced in NETN-FOM v3|
 |NETN-METOC| Representation of weather conditions and primary effects of weather on terrain, water surfaces, atmosphere, and subsurface water conditions.|Introduced in NETN-FOM v3 |
