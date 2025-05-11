@@ -13,7 +13,7 @@ The NETN-FOM focuses on technical interoperability issues in distributed simulat
 
 Maintenance and updates of AMSP-04 is coordinated by the NATO Modelling and Simulation Coordination Office (MSCO), managed by the NATO Modelling and Simulation Group (NMSG) and performed as NATO Science and Technology Organization (STO) technical activities in support of the NMSG Modelling and Simulation Standards Subgroup (MS3). AMSP-04 is maintained on GitHub and all release and development versions are publicly available.
 
-Several versions of the NETN-FOM have been released and the latest released version at the time of writing this report is NETN-FOM v4. This version was primarily developed by MSG-191 and subsequently released and maintained during MSG-223.
+Several versions of the NETN-FOM have been released and the latest version is NETN-FOM v4.
 
 |Version|Description|Developed by|Released|
 |---|---|---|---|
