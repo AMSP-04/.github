@@ -33,5 +33,7 @@ Starting from NETN-FOM v4 all FOM modules are managed in the NETN-FOM repository
 This repository also contain all releases of NETN-FOM.
 
 The Master Branch of the NETN-FOM repository always contain the latest released version of the NETN-FOM.
-The Develop Branch of the NETN-FOM repository always contain the latest stable development version of the NETN-FOM including all FOM modules.
-In the Edit Branches, you will find work-in-progress.
+
+The Develop Branch of the NETN-FOM repository always contain the latest stable development version of the NETN-FOM including all FOM modules. In the Edit Branches, you will find work-in-progress.
+
+MSG-223 is currently maintaining the NETN-FOM and working to deliver a draft proposal for a NETN-FOM v4.x or v5 by the end of March 2027.
