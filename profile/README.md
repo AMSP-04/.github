@@ -1,7 +1,5 @@
 ## NATO Education and Training Network Federation Object Model (NETN FOM)
 
-> [!NOTE]
-> Useful information that users should know.
 
 * [Download AMSP-04 Ed C and STANREC 4800 Ed 3](https://nso.nato.int/nso/nsdd/main/standards)
 
