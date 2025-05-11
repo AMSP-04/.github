@@ -18,9 +18,9 @@ Several versions of the NETN-FOM have been released and the latest version is NE
 |Version|Description|Developed by|Released|
 |---|---|---|---|
 |v1.0|Initial release of the NETN-FOM|MSG-068|22 FEB 2014|
-|v2.0|Release of the NETN-FOM included in AMSP-04 Ed A|MSG-134|28 MAR 2018|
-|v3.0|Release of the NETN-FOM included in AMSP-04 Ed B|MSG-163|26 MAR 2021|
-|v4.0|Release of the NETN-FOM included in AMSP-04 Ed C|MSG-191|11 MAR 2025|
+|v2.0|[Release of the NETN-FOM included in AMSP-04 Ed A](https://github.com/AMSP-04/NETN-FOM/releases/tag/v2.0)|MSG-134|28 MAR 2018|
+|v3.0|[Release of the NETN-FOM included in AMSP-04 Ed B](https://github.com/AMSP-04/NETN-FOM/releases/tag/v3.0)|MSG-163|26 MAR 2021|
+|v4.0|[Release of the NETN-FOM included in AMSP-04 Ed C](https://github.com/AMSP-04/NETN-FOM/releases/tag/v4.0)|MSG-191|11 MAR 2025|
 
 The NETN-FOM consists of a set of HLA FOM Modules providing standard interfaces for representing simulated entities, events, and other models of real-world objects, processes and phenomenon. It also provides standard interfaces and patterns for simulation interplay between systems in a federated distributed simulation to allow multi-resolution modelling, transfer of modelling responsibilities, tasking and simulation control.
 
