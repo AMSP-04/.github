@@ -1,5 +1,8 @@
 ## NATO Education and Training Network Federation Object Model (NETN FOM)
 
+
+* [Download AMSP-04 Ed C and STANREC 4800 Ed 3](https://nso.nato.int/nso/nsdd/main/standards)
+
 * [Download NETN-FOM v4 FOM modules in HLA4 Format](https://github.com/AMSP-04/NETN-FOM/tree/master/FomFiles_HLA4)
 
 * [Download NETN-FOM v4 FOM in HLA Evolved Format](https://github.com/AMSP-04/NETN-FOM/tree/master/FomFiles_Merged_HLA_Evolved)
