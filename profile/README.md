@@ -27,7 +27,7 @@ Several versions of the NETN-FOM have been released and the latest version is NE
 
 The NETN-FOM consists of a set of HLA FOM Modules providing standard interfaces for representing simulated entities, events, and other models of real-world objects, processes and phenomenon. It also provides standard interfaces and patterns for simulation interplay between systems in a federated distributed simulation to allow multi-resolution modelling, transfer of modelling responsibilities, tasking and simulation control.
 
-NETN-FOM v4 (the latest release) consists of 14 FOM Modules, see Table 2, with dependencies between them and to other standard FOM modules. The NETN-FOM v4 extends and complements the SISO RPR-FOM v2 standard and depends on some of the RPR-FOM modules.
+NETN-FOM v4 (the latest release) consists of 14 FOM Modules with dependencies between them and to other standard FOM modules. The NETN-FOM v4 extends and complements the [SISO-STD-001-2015 Standard for Real-time Platform Reference Federation Object Model (RPR FOM) v2](https://www.sisostandards.org/resource/resmgr/standards_products/siso-std-001.1-2015_rpr_fom.pdf) standard and depends on some of the RPR-FOM modules.
 
 Starting from NETN-FOM v4 all FOM modules are managed in the NETN-FOM repository. 
 This repository also contain all releases of NETN-FOM.
