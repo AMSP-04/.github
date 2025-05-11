@@ -7,6 +7,7 @@
 
 * [Download NETN-FOM v4 FOM in HLA Evolved Format](https://github.com/AMSP-04/NETN-FOM/tree/master/FomFiles_Merged_HLA_Evolved)
 
+* [Download previous releases of NETN-FOM](https://github.com/AMSP-04/NETN-FOM/releases)
 
 Efficient and effective use of Modelling & Simulation (M&S) capabilities requires standards for connecting and integrating M&S components across the training system enterprise.
 
