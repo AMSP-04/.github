@@ -13,7 +13,7 @@ Efficient and effective use of Modelling & Simulation (M&S) capabilities require
 
 AMSP-04 NATO Education and Training Network Federation Object Model (NETN-FOM) specifies how to represent and share data in distributed simulation environments where M&S services (federates) are connected and federated using the NATO mandated IEEE 1516 High-Level Architecture (HLA) standard (NATO STANAG 4603).
 
-The NETN-FOM focuses on technical interoperability issues in distributed simulation and provides patterns for scenario initialization, transfer of modelling responsibilities, simulation entity tasking and patterns for managing dynamic change of model resolution.
+The NETN-FOM focuses on technical interoperability issues in distributed simulation and provides patterns for scenario initialization, transfer of modelling responsibilities, simulation entity tasking and patterns for managing multi-resolution modelling.
 
 Maintenance and updates of AMSP-04 is coordinated by the NATO Modelling and Simulation Coordination Office (MSCO), managed by the [NATO Modelling and Simulation Group (NMSG)](https://nmsg.sto.nato.int/) and performed as [NATO Science and Technology Organization (STO)](https://www.sto.nato.int/) technical activities (currently MSG-223) in support of the NMSG Modelling and Simulation Standards Subgroup (MS3). AMSP-04 is maintained on GitHub and all release and development versions are publicly available.
 
